@@ -1,13 +1,31 @@
-## Hi there 👋
+## Hey, we're Brayzen 👋
 
-<!--
+We're building the best money app for Nigerians — a modern finance platform that helps you understand your money, track spending, manage budgets, and build savings, all with AI-powered insights.
 
-**Here are some ideas to get you started:**
+### What we're building
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-## We are building the best money app for Nigerians.
+| Product | What it does | Stack |
+|---------|--------------|-------|
+| **Mobile App** | Personal finance on iOS & Android | Expo, React Native, React Query, Zustand |
+| **API** | Backend with ML-powered transaction intelligence | Bun, HonoJS, PostgreSQL, Redis, Python |
+| **Landing Page** | Marketing site | Astro, Tailwind, Framer Motion |
+
+### How it works
+
+- **Track everything** — link bank accounts via Mono, auto-categorize transactions with ML
+- **Budget smarter** — set spending limits, get real-time alerts
+- **Save consistently** — savings goals and plans powered by Cowrywise
+- **AI insights** — ask questions about your spending, get personalized recommendations
+- **Send money** — USD/FX transfers via Maplerad, local transfers via Anchor
+
+### Repos
+
+| Repo | Description |
+|------|-------------|
+| [brayzenapp](https://github.com/brayzenco/brayzenapp) | Client apps — mobile, landing page, web dashboard |
+| [brayzenapi](https://github.com/brayzenco/brayzenapi) | Backend API with ML-powered transaction intelligence |
+
+### Get in touch
+
+- 🌐 [brayzenmoney.com](https://brayzenmoney.com)
+- 📧 [brayzenmoney@gmail.com](mailto:brayzenmoney@gmail.com)
