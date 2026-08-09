@@ -36,14 +36,14 @@ Brayzen is a modern personal finance platform that helps Nigerians understand th
 
 | Repository | Description | Stack |
 |------------|-------------|-------|
-| [`brayzenapp`](https://github.com/brayzenco/brayzenapp) | Mobile app, landing page, web dashboard | Expo, React Native, Astro, Tailwind |
+| [`brayzenapp`](https://github.com/brayzenco/brayzenapp) | Client apps — mobile, web dashboard, landing page. **Repo reset Aug 2026; being rebuilt** | TBD (previously Expo, React Native, Astro, Tailwind) |
 | [`brayzenapi`](https://github.com/brayzenco/brayzenapi) | Backend API with ML-powered transaction intelligence | Bun, HonoJS, PostgreSQL, Redis, Python |
 
 ## Tech Stack
 
 **Backend:** Bun, HonoJS, PostgreSQL 17, Drizzle ORM, Redis, BullMQ, gRPC
 
-**Mobile:** Expo SDK 56, React Native 0.85, Expo Router, React Query, Zustand, Zod
+**Clients:** being rebuilt after the Aug 2026 `brayzenapp` repo reset. Previously: Expo / React Native / Expo Router / TanStack Query / Zustand / Zod (mobile), Astro + Tailwind (landing). Design system: `brayzendesign/DESIGN.md`.
 
 **ML Engine:** Python 3.12, scikit-learn, gRPC sidecar (categorization, anomaly detection, fraud detection)
 
@@ -53,13 +53,9 @@ Brayzen is a modern personal finance platform that helps Nigerians understand th
 
 ## Getting Started
 
-### Mobile App
+### Clients (mobile, web, landing)
 
-```sh
-cd brayzenapp/apps/mobile
-bun install
-bun start
-```
+The `brayzenapp` repo was reset in Aug 2026 and is being rebuilt — no runnable apps in it yet. Design system reference: `brayzendesign/DESIGN.md`.
 
 ### API
 
@@ -74,14 +70,6 @@ bun run dev
 ```
 
 API runs at `http://localhost:3000`. Docs at `/v1/docs`.
-
-### Landing Page
-
-```sh
-cd brayzenapp/apps/landing
-bun install
-bun run dev
-```
 
 ## Links
 
