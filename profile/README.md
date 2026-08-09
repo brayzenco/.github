@@ -16,7 +16,7 @@ We're building the best money app for Nigerians — a modern finance platform th
 - **Budget smarter** — set spending limits, get real-time alerts
 - **Save consistently** — savings goals and plans powered by Cowrywise
 - **AI insights** — ask questions about your spending, get personalized recommendations
-- **Send money** — USD/FX transfers via Maplerad, local transfers via Anchor
+- **Send money** — local transfers via Anchor
 
 ### Repos
 
