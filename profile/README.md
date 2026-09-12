@@ -27,5 +27,5 @@ We're building the best money app for Nigerians — a modern finance platform th
 
 ### Get in touch
 
-- 🌐 [brayzenmoney.com](https://remba.money)
-- 📧 [brayzenmoney@gmail.com](mailto:rembadigitalservices@gmail.com)
+- 🌐 [remba.money](https://remba.money)
+- 📧 [rembadigitalservices@gmail.com](mailto:rembadigitalservices@gmail.com)
