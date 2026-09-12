@@ -22,8 +22,8 @@ We're building the best money app for Nigerians — a modern finance platform th
 
 | Repo | Description |
 |------|-------------|
-| [brayzenapp](https://github.com/rembaltd/app) | Client apps — mobile |
-| [brayzenapi](https://github.com/rembaltd/api) | Backend API with ML-powered transaction intelligence |
+| [app](https://github.com/rembaltd/app) | Client apps — mobile |
+| [api](https://github.com/rembaltd/api) | Backend API with ML-powered transaction intelligence |
 
 ### Get in touch
 
