@@ -1,4 +1,4 @@
-## Hey, we're Brayzen 👋
+## Hey, we're Remba 👋
 
 We're building the best money app for Nigerians — a modern finance platform that helps you understand your money, track spending, manage budgets, and build savings, all with AI-powered insights.
 
@@ -14,18 +14,18 @@ We're building the best money app for Nigerians — a modern finance platform th
 
 - **Track everything** — link bank accounts via Mono, auto-categorize transactions with ML
 - **Budget smarter** — set spending limits, get real-time alerts
-- **Save consistently** — savings goals and plans powered by Cowrywise
+- **Save consistently** — savings goals and plans powered by local providers
 - **AI insights** — ask questions about your spending, get personalized recommendations
-- **Send money** — local transfers via Anchor
+- **Send money** — local transfers via local providers
 
 ### Repos
 
 | Repo | Description |
 |------|-------------|
-| [brayzenapp](https://github.com/brayzenco/brayzenapp) | Client apps — mobile, landing page, web dashboard |
-| [brayzenapi](https://github.com/brayzenco/brayzenapi) | Backend API with ML-powered transaction intelligence |
+| [brayzenapp](https://github.com/rembaltd/app) | Client apps — mobile |
+| [brayzenapi](https://github.com/rembaltd/api) | Backend API with ML-powered transaction intelligence |
 
 ### Get in touch
 
-- 🌐 [brayzenmoney.com](https://brayzenmoney.com)
-- 📧 [brayzenmoney@gmail.com](mailto:brayzenmoney@gmail.com)
+- 🌐 [brayzenmoney.com](https://remba.money)
+- 📧 [brayzenmoney@gmail.com](mailto:rembadigitalservices@gmail.com)
