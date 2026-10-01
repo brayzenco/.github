@@ -28,4 +28,4 @@ We're building the best money app for Nigerians — a modern finance platform th
 ### Get in touch
 
 - 🌐 [brayzenmoney.com](https://brayzenmoney.com)
-- 📧 [brayzenmoney@gmail.com](mailto:brayzenmoney@gmail.com)
+- 📧 [support@brayzenmoney.com](mailto:support@brayzenmoney.com)
